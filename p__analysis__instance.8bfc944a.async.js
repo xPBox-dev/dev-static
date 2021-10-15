@@ -1,1 +1,0 @@
-(self.webpackChunkant_design_pro=self.webpackChunkant_design_pro||[]).push([[500],{22690:function(s,t,n){"use strict";n.r(t);var _=n(49675),a=n(85893);t.default=function(){return(0,a.jsx)(_.ZP,{tabList:[{tab:"\u6982\u89C8",key:"base"},{tab:"\u8BE6\u7EC6\u8D8B\u52BF",key:"info"}]})}}}]);
